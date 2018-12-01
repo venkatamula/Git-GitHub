@@ -1,3 +1,0 @@
-test tile 3
-Added text to the file 3
-Added text to file in GitHub
